@@ -2,19 +2,14 @@
 
 **Libft** is a custom C library that replicates key functions from the standard C library. It includes implementations of various functions (for example, `strlen`, `strcpy`, `memset`, and `malloc`), focusing on string manipulation, memory management, and linked lists. This project is designed to build a deeper understanding of how these fundamental functions work behind the scenes. 
 
-# Functions from <ctype.h>
-ft_isalpha - checks for an alphabetic character.
-
-ft_isdigit - checks for a digit (0 through 9).
-
-ft_isalnum - checks for an alphanumeric character.
-
-ft_isascii - checks whether c fits into the ASCII character set.
-
-ft_isprint - checks for any printable character.
-
-ft_toupper - convert char to uppercase.
-ft_tolower - convert char to lowercase.
+### Functions from `<ctype.h>`
+- `ft_isalpha` - checks for an alphabetic character.
+- `ft_isdigit` - checks for a digit (0 through 9).
+- `ft_isalnum` - checks for an alphanumeric character.
+- `ft_isascii` - checks whether `c` fits into the ASCII character set.
+- `ft_isprint` - checks for any printable character.
+- `ft_toupper` - converts a char to uppercase.
+- `ft_tolower` - converts a char to lowercase.
 
 # Functions from <string.h>
 ft_memset - fill memory with a constant byte.
