@@ -11,7 +11,7 @@
 - `ft_toupper` - converts a char to uppercase.
 - `ft_tolower` - converts a char to lowercase.
 
-### Functions from <string.h>
+### Functions from `<string.h>`
 - `ft_memset` - fill memory with a constant byte.
 - `ft_strlen` - calculate the length of a string.
 - `ft_bzero` - zero a byte string.
@@ -27,7 +27,7 @@
 - `ft_strnstr` - locate a substring in a string.
 - `ft_strdup` - creates a duplicate for the string passed as parameter.
 
-### Functions from <stdlib.h>
+### Functions from `<stdlib.h>`
 - `ft_atoi` - convert a string to an integer.
 - `ft_calloc` - allocates memory and sets its bytes' values to 0.
 
